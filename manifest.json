@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "ColorPicks",
+    "version": "1.0",
+    "description": "Pick any color from a browser webpage",
+    
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "ColorPicks - Pick any Color!",
+        "default_icon": {
+            "128": "./images.png"
+        }
+    }
+}
